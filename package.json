@@ -1,5 +1,5 @@
 {
-  "name": "athena-util",
+  "name": "afira-util",
   "version": "0.1.0",
   "description": "Utlity functions for athena projects",
   "main": "dist/index.d.ts",
