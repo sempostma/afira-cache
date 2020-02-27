@@ -30,9 +30,9 @@
   "author": "Sem Postma",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sempostma/athena-util/issues"
+    "url": "https://github.com/sempostma/afira-util/issues"
   },
-  "homepage": "https://github.com/sempostma/athena-util#readme",
+  "homepage": "https://github.com/sempostma/afira-util#readme",
   "devDependencies": {
     "@types/lodash": "^4.14.149",
     "jest": "^25.1.0",
