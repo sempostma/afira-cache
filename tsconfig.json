@@ -10,7 +10,7 @@
       "es6",
       "DOM"
     ],
-    "outDir": "./es",
+    "outDir": "./dist",
     "noImplicitAny": true,
     "moduleResolution": "node",
     "strict": true,

@@ -2,7 +2,7 @@
   "name": "athena-util",
   "version": "0.1.0",
   "description": "Utlity functions for athena projects",
-  "main": "index.js",
+  "main": "dist/index.d.ts",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
