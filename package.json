@@ -1,0 +1,46 @@
+{
+  "name": "athena-util",
+  "version": "0.1.0",
+  "description": "Utlity functions for athena projects",
+  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc --watch",
+    "pretest": "npm run build",
+    "test": "jest",
+    "jest:watch": "jest --watchAll",
+    "lint": "tslint -c tslint.json 'src/**/*.ts'",
+    "lint:fix": "tslint --fix -c tslint.json 'src/**/*.ts'"
+  },
+  "files": [
+    "dist/",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sempostma/athena-util.git"
+  },
+  "keywords": [
+    "util",
+    "utility",
+    "athena",
+    "typescript"
+  ],
+  "author": "Sem Postma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sempostma/athena-util/issues"
+  },
+  "homepage": "https://github.com/sempostma/athena-util#readme",
+  "devDependencies": {
+    "@types/lodash": "^4.14.149",
+    "jest": "^25.1.0",
+    "jsdom": "^16.2.0",
+    "tslint": "^6.0.0",
+    "typescript": "^3.8.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
