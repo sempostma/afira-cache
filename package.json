@@ -1,7 +1,7 @@
 {
-  "name": "athena-util",
+  "name": "afira-util",
   "version": "0.1.0",
-  "description": "Utlity functions for athena projects",
+  "description": "Utlity functions for afira projects",
   "main": "dist/index.d.ts",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -19,20 +19,20 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sempostma/athena-util.git"
+    "url": "git+https://github.com/sempostma/afira-util.git"
   },
   "keywords": [
     "util",
     "utility",
-    "athena",
+    "afira",
     "typescript"
   ],
   "author": "Sem Postma",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sempostma/athena-util/issues"
+    "url": "https://github.com/sempostma/afira-util/issues"
   },
-  "homepage": "https://github.com/sempostma/athena-util#readme",
+  "homepage": "https://github.com/sempostma/afira-util#readme",
   "devDependencies": {
     "@types/lodash": "^4.14.149",
     "jest": "^25.1.0",
